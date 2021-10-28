@@ -1,9 +1,8 @@
 /*
- * 3D Artwig chess set
- * @JulianGarnier
+ * 3D CHESS SET
+ * @Tanav B Urs
  *
  * Licensed under the MIT license.
- * Copyright 2012 Julian Garnier
  */
 
 var chess = new Chess();
